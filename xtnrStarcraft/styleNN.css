@@ -1,0 +1,5 @@
+@import url(style.css); 
+/* Very short Gecko-specific additions/changes here (if 
+any) */ 
+
+td#mainmenu a.menuSub {width:314; padding-left: 9px; border-right: 1px solid #960000; border-bottom: 1px solid #960000; border-left: 1px solid #960000;}
